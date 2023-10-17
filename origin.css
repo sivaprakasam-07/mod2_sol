@@ -1,0 +1,13 @@
+p{
+    font: size 130%;
+    background-color:rgb(151, 82, 82);
+    color:white;
+    text-align: center;
+    text-decoration:underline;
+    font-style: italic;
+}
+h1{
+    color:crimson;
+    font-style: italic;
+    text-align: center;
+}
